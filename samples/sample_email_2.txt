@@ -1,0 +1,11 @@
+Subject: Your Bank Account Update Required
+
+Dear Customer,
+
+Your bank account has been temporarily restricted.
+Please update your details to restore access.
+
+Click here: http://bank-secure-login[.]net
+
+Thank you,
+Bank Support
