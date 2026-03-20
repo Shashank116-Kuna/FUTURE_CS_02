@@ -49,3 +49,7 @@ This project demonstrates how phishing attacks work and provides practical aware
 
 ---
 
+---
+
+## 📌 Author
+Shashank Kuna - Future Interns (2026)
